@@ -1,0 +1,8 @@
+hfi1-tmm (10.8.0.0-214-1ifs+deb8) jessie; urgency=medium
+
+  * First release.
+  * Import hfi1-tmm 10.8.0.0-214 from IntelOPA-TMM
+    RHEL75 10.8.0.0.214 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Thu, 11 Oct 2018 15:45:04 -0500
+

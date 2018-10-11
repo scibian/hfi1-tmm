@@ -1,0 +1,15 @@
+Source: hfi1-tmm
+Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
+Section: non-free/misc
+Priority: extra
+Standards-Version: 3.9.6
+Homepage: http://www.intel.com
+Build-Depends: debhelper (>= 9),
+
+Package: hfi1-tmm
+Architecture: any
+Depends: ${misc:Depends},
+Description: TMM Firmware for Gen1 HFI
+ This package contains the TMM firmware.
+ Usage of the firmware is subject to the terms and conditions contained
+ inside the provided LICENSE file. Please read it carefully.
