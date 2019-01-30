@@ -1,3 +1,9 @@
+hfi1-tmm (10.9.0.0-208-1ifs+deb8) jessie; urgency=medium
+
+  * Import hfi1-tmm 10.9.0.0-208 from IntelOPA-TMM 10.9.0.0.208 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Tue, 29 Jan 2019 18:47:22 -0600
+
 hfi1-tmm (10.8.0.0-214-1ifs+deb8) jessie; urgency=medium
 
   * First release.
