@@ -1,0 +1,14 @@
+hfi1-tmm (10.9.0.0-208-1ifs+deb9) stretch; urgency=medium
+
+  * Import hfi1-tmm 10.9.0.0-208 from IntelOPA-TMM 10.9.0.0.208 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Tue, 19 Feb 2019 16:28:43 -0600
+
+hfi1-tmm (10.8.0.0-214-1ifs+deb9) stretch; urgency=medium
+
+  * First release for stretch.
+  * Import hfi1-tmm 10.8.0.0-214 from IntelOPA-TMM
+    RHEL75 10.8.0.0.214 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Wed, 31 Oct 2018 12:14:52 -0500
+
