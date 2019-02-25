@@ -1,3 +1,9 @@
+hfi1-tmm (10.8.0.0-214-1ifs+deb8sci8+opa10.8u1) scibian8+opa10.8; urgency=medium
+
+  * Scibian Packaging conventions.
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Mon, 25 Feb 2019 09:56:51 +0100
+
 hfi1-tmm (10.8.0.0-214-1ifs+deb8) jessie; urgency=medium
 
   * First release.
