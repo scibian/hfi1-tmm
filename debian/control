@@ -1,10 +1,12 @@
 Source: hfi1-tmm
-Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
+Maintainer: Scibian Project <packaging@scibian.org>
 Section: non-free/misc
 Priority: extra
-Standards-Version: 3.9.8
+Standards-Version: 3.9.6
 Homepage: http://www.intel.com
 Build-Depends: debhelper (>= 9),
+Vcs-Git: https://github.com/scibian/libhfi1.git
+Vcs-Browser: https://github.com/scibian/libhfi1
 
 Package: hfi1-tmm
 Architecture: any
