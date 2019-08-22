@@ -1,3 +1,10 @@
+hfi1-tmm (10.9.0.0-208-1ifs+deb8sci8+opa10.9u1) scibian8+opa10.9; urgency=medium
+
+  * Release for scibian8+opa10.9
+  * Scibianize d/copyright
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Wed, 21 Aug 2019 15:30:30 +0200
+
 hfi1-tmm (10.9.0.0-208-1ifs+deb8) jessie; urgency=medium
 
   * Import hfi1-tmm 10.9.0.0-208 from IntelOPA-TMM 10.9.0.0.208 upstream.
