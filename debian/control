@@ -4,6 +4,8 @@ Section: non-free/misc
 Priority: extra
 Standards-Version: 3.9.6
 Homepage: http://www.intel.com
+Vcs-Git: https://github.com/scibian/hfi1-tmm.git
+Vcs-Browser: https://github.com/scibian/hfi1-tmm
 Build-Depends: debhelper (>= 9),
 Vcs-Git: https://github.com/scibian/libhfi1.git
 Vcs-Browser: https://github.com/scibian/libhfi1
